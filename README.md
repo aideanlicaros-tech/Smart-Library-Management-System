@@ -9,6 +9,12 @@ Project Modules
 - Reports
 - User Accounts
 
+- Member Management
+- Book Catalog
+- Borrowing
+- Returning
+
+
   
 Development Team
 Student Name: Christian James O. Zotomayor
