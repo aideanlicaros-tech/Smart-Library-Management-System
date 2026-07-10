@@ -26,3 +26,10 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name: Charles Adrian O. Evio
+
+Feature Added:
+- Digital Library Dashboard
